@@ -1,0 +1,177 @@
+{
+  "doc_id": "SOP-SALES-20260714",
+  "generated": "2026-07-14",
+  "framework": {
+    "key": "sales",
+    "name": "Sales & Pipeline Management Process",
+    "description": "End-to-end sales process from lead capture to closed-won",
+    "steps": 13,
+    "total_steps": 13,
+    "categories": [
+      "Sales",
+      "Growth"
+    ]
+  },
+  "context": {
+    "industry": "E-Commerce",
+    "service_line": "Lead Generation Automation",
+    "agency_type": "Scale Agency (21-50 people)",
+    "agency_type_desc": "Established agency requiring formal SOP documentation for scale."
+  },
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "Lead Qualification Scorecard",
+      "description": "Build qualification scorecard scoring E-Commerce leads on budget, authority, need, timeline, and fit with Lead Generation Automation offerings. Define minimum threshold for pipeline entry.",
+      "owner": "Marketing",
+      "estimated_time": "1-2 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "Discovery Call Script",
+      "description": "Standard procedure for Discovery Call Script adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "SDR",
+      "estimated_time": "1-2 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "Demo Preparation Checklist",
+      "description": "Prepare environment, case studies, and industry-specific examples for E-Commerce prospects. Configure Lead Generation Automation demo scenario showing measurable outcomes.",
+      "owner": "Solutions Consultant",
+      "estimated_time": "1-3 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "Proposal Delivery Protocol",
+      "description": "Standard procedure for Proposal Delivery Protocol adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Proposal Writer",
+      "estimated_time": "2-4 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "Objection Response Matrix",
+      "description": "Standard procedure for Objection Response Matrix adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Sales Engineer",
+      "estimated_time": "2-5 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "Follow-Up Sequence Template",
+      "description": "Standard procedure for Follow-Up Sequence Template adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "SDR",
+      "estimated_time": "3-6 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "Contract Negotiation Guide",
+      "description": "Standard procedure for Contract Negotiation Guide adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Account Executive",
+      "estimated_time": "3-7 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "Close Process Checklist",
+      "description": "Standard procedure for Close Process Checklist adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Account Executive",
+      "estimated_time": "4-8 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "Handoff to Delivery Team",
+      "description": "Standard procedure for Handoff to Delivery Team adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Account Executive",
+      "estimated_time": "4-9 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "Lost Deal Analysis Template",
+      "description": "Standard procedure for Lost Deal Analysis Template adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Sales Ops",
+      "estimated_time": "5-10 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "CRM Hygiene Standard",
+      "description": "Standard procedure for CRM Hygiene Standard adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Sales Ops",
+      "estimated_time": "5-11 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 12,
+      "step_name": "Pipeline Review Agenda",
+      "description": "Standard procedure for Pipeline Review Agenda adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Sales Manager",
+      "estimated_time": "6-12 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 13,
+      "step_name": "Referral Request Script",
+      "description": "Standard procedure for Referral Request Script adapted for E-Commerce clients with Lead Generation Automation focus.",
+      "owner": "Account Executive",
+      "estimated_time": "6-13 hours",
+      "status": "Not Started",
+      "notes": ""
+    }
+  ],
+  "metadata": {
+    "status": "Draft",
+    "version": "1.0",
+    "last_reviewed": "2026-07-14",
+    "next_review": "2026-10-12",
+    "approved_by": "",
+    "effective_date": "2026-07-14"
+  },
+  "templates_included": true,
+  "quality_metrics": [
+    {
+      "metric": "Qualified Lead Response Time",
+      "target": "\u2264 1 hour",
+      "current": "",
+      "status": "Not Measured"
+    },
+    {
+      "metric": "Proposal Win Rate",
+      "target": "\u2265 40%",
+      "current": "",
+      "status": "Not Measured"
+    },
+    {
+      "metric": "Pipeline Accuracy",
+      "target": "\u00b1 15% forecast",
+      "current": "",
+      "status": "Not Measured"
+    }
+  ],
+  "revision_history": [
+    {
+      "version": "1.0",
+      "date": "2026-07-14",
+      "author": "AI Revenue Toolkit",
+      "changes": "Initial document generation"
+    }
+  ]
+}

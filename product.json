@@ -1,0 +1,59 @@
+{
+  "product_id": "ai-agency-sop-generator-v1",
+  "product_name": "AI Agency SOP & Process Documentation Generator",
+  "version": "1.0",
+  "date": "2026-07-14",
+  "category": "Agency Operations / Process Documentation",
+  "framework": "D.O.C.U.M.E.N.T.",
+  "frameworks_total": 8,
+  "step_templates_total": 88,
+  "industries_supported": 15,
+  "service_lines_supported": 12,
+  "agency_types_supported": 5,
+  "output_formats": ["Markdown", "HTML", "JSON"],
+  "modes": ["Interactive", "CLI Arguments", "Batch Mode"],
+  "frameworks_covered": [
+    "Client Onboarding Process (12 steps)",
+    "Client Discovery & Automation Audit (10 steps)",
+    "Automation Implementation Protocol (14 steps)",
+    "Client Support & Maintenance SOP (11 steps)",
+    "Sales & Pipeline Management Process (13 steps)",
+    "Client Reporting & Communication Standards (9 steps)",
+    "Team Hiring & Onboarding SOP (11 steps)",
+    "Quality Assurance & Review Process (8 steps)"
+  ],
+  "features": [
+    "8 SOP frameworks with 88 step templates",
+    "15 industries, 12 service lines, 5 agency types",
+    "3 output formats: Markdown, HTML, JSON",
+    "Interactive and batch modes",
+    "Quality metrics per framework",
+    "Role-based ownership assignment",
+    "Time estimates per step",
+    "Revision history tracking",
+    "Zero dependencies (pure Python 3)"
+  ],
+  "target_audience": [
+    "AI Automation Agency Owners",
+    "Operations Directors",
+    "Project Managers",
+    "Team Leads",
+    "Freelancers Scaling to Agencies"
+  ],
+  "pricing": {
+    "standalone": 14,
+    "bundle": 37,
+    "agency_license": 97
+  },
+  "sample_files": [
+    "samples/sop_onboarding_real_estate.md",
+    "samples/sop_onboarding_real_estate.html",
+    "samples/sop_sales_e-commerce.md",
+    "samples/sop_sales_e-commerce.html",
+    "samples/sop_implementation_saas_and_technology.md",
+    "samples/sop_implementation_saas_and_technology.html"
+  ],
+  "main_file": "2026-07-14_ai_sop_generator.py",
+  "compatible_with": ["macOS", "Linux", "Windows", "Python 3.6+"],
+  "round": 1
+}

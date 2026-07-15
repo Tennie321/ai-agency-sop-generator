@@ -1,0 +1,186 @@
+{
+  "doc_id": "SOP-IMPLEMENTATION-20260714",
+  "generated": "2026-07-14",
+  "framework": {
+    "key": "implementation",
+    "name": "Automation Implementation Protocol",
+    "description": "Standard procedure for building and deploying automation solutions",
+    "steps": 14,
+    "total_steps": 14,
+    "categories": [
+      "Service Delivery",
+      "Engineering"
+    ]
+  },
+  "context": {
+    "industry": "SaaS & Technology",
+    "service_line": "Data Migration & Integration",
+    "agency_type": "Enterprise Agency (50+ people)",
+    "agency_type_desc": "Large agency with dedicated departments needing enterprise-grade SOPs."
+  },
+  "steps": [
+    {
+      "step_number": 1,
+      "step_name": "Solution Architecture Template",
+      "description": "Standard procedure for Solution Architecture Template adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Solutions Architect",
+      "estimated_time": "1-2 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 2,
+      "step_name": "Development Environment Setup",
+      "description": "Standard procedure for Development Environment Setup adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Developer",
+      "estimated_time": "1-2 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 3,
+      "step_name": "API Key & Credential Management",
+      "description": "Standard procedure for API Key & Credential Management adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Security Lead",
+      "estimated_time": "1-3 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 4,
+      "step_name": "Testing Protocol Checklist",
+      "description": "Execute QA testing across SaaS & Technology-specific scenarios including edge cases, data validation, and Data Migration & Integration integration testing. Document pass/fail criteria.",
+      "owner": "QA Engineer",
+      "estimated_time": "2-4 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 5,
+      "step_name": "UAT Sign-Off Form",
+      "description": "Standard procedure for UAT Sign-Off Form adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Client Success",
+      "estimated_time": "2-5 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 6,
+      "step_name": "Deployment Runbook",
+      "description": "Step-by-step deployment checklist for SaaS & Technology environments including Data Migration & Integration configuration, API connections, data migration, and rollback procedures.",
+      "owner": "DevOps",
+      "estimated_time": "3-6 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 7,
+      "step_name": "Rollback Procedure",
+      "description": "Standard procedure for Rollback Procedure adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "DevOps",
+      "estimated_time": "3-7 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 8,
+      "step_name": "Error Handling Protocol",
+      "description": "Standard procedure for Error Handling Protocol adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Developer",
+      "estimated_time": "4-8 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 9,
+      "step_name": "Performance Benchmark Template",
+      "description": "Standard procedure for Performance Benchmark Template adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Performance Lead",
+      "estimated_time": "4-9 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 10,
+      "step_name": "Documentation Template",
+      "description": "Generate SaaS & Technology-specific documentation covering Data Migration & Integration architecture, configuration, admin guide, and end-user training materials.",
+      "owner": "Technical Writer",
+      "estimated_time": "5-10 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 11,
+      "step_name": "Client Training Guide",
+      "description": "Standard procedure for Client Training Guide adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Client Success",
+      "estimated_time": "5-11 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 12,
+      "step_name": "Go-Live Checklist",
+      "description": "Standard procedure for Go-Live Checklist adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Project Manager",
+      "estimated_time": "6-12 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 13,
+      "step_name": "Post-Launch Review Template",
+      "description": "Standard procedure for Post-Launch Review Template adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Project Manager",
+      "estimated_time": "6-13 hours",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "step_number": 14,
+      "step_name": "Handoff to Support",
+      "description": "Standard procedure for Handoff to Support adapted for SaaS & Technology clients with Data Migration & Integration focus.",
+      "owner": "Support Lead",
+      "estimated_time": "7-14 hours",
+      "status": "Not Started",
+      "notes": ""
+    }
+  ],
+  "metadata": {
+    "status": "Draft",
+    "version": "1.0",
+    "last_reviewed": "2026-07-14",
+    "next_review": "2026-10-12",
+    "approved_by": "",
+    "effective_date": "2026-07-14"
+  },
+  "templates_included": true,
+  "quality_metrics": [
+    {
+      "metric": "Process Adherence Rate",
+      "target": "\u2265 90%",
+      "current": "",
+      "status": "Not Measured"
+    },
+    {
+      "metric": "Completion Time vs Estimate",
+      "target": "\u00b1 20%",
+      "current": "",
+      "status": "Not Measured"
+    },
+    {
+      "metric": "Stakeholder Satisfaction",
+      "target": "\u2265 4.0/5",
+      "current": "",
+      "status": "Not Measured"
+    }
+  ],
+  "revision_history": [
+    {
+      "version": "1.0",
+      "date": "2026-07-14",
+      "author": "AI Revenue Toolkit",
+      "changes": "Initial document generation"
+    }
+  ]
+}
